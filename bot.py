@@ -95,6 +95,6 @@ async def image(ctx):
     arr = [discord.File(random.choice(images))]
     await ctx.send(files=arr)
 
-client.run("NzUzNjkxNjE2OTQ1ODk3NDgy.X1p4BA.bV9hvzqcJU-VdtZeiwZyu6jf1IU")
+client.run("NzUzNjkxNjE2OTQ1ODk3NDgy.X1p4BA.bV9hvzqcJU-VdtZeiwZyu6jf1IU") //Here goes your discord token
 
 
